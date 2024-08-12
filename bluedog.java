@@ -8,7 +8,7 @@ import java.awt.Robot;
 public class bluedog {
 	public static void main(String args[]) throws AWTException, InterruptedException
 	{
-		int[][][] pos = new int[100][5][5];
+		int[][][] pos = new int[4][5][5];
 
 		//almost
 		pos[0][0]=new int[] {725,492,231,230,228};
