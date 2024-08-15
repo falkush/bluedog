@@ -13,3 +13,5 @@ Unfortunately, Lua doesn't support pixel reading. So I tweaked my autosplitter (
 
 # Update
 After three days of running the script almost non-stop, 8410 simulations later, the glitch happened and the blue dog finally won! To reproduce the win, use the save state file in the folder "bluedogwin" and run the Lua script with it using BizHawk. It takes a little while before the race starts because it waits for the correct RNG value.
+
+Video of blue dog winning: https://www.youtube.com/watch?v=MXrU5gBagYE
