@@ -15,3 +15,10 @@ Unfortunately, Lua doesn't support pixel reading. So I tweaked my autosplitter (
 After three days of running the script almost non-stop, 8410 simulations later, the glitch happened and the blue dog finally won! To reproduce the win, use the save state file in the folder "bluedogwin" and run the Lua script with it using BizHawk. It takes a little while before the race starts because it waits for the correct RNG value.
 
 Video of blue dog winning: https://www.youtube.com/watch?v=MXrU5gBagYE
+
+# Update 2
+I had the idea that if the dogs with the faster colors had normal/bad conditions and if the dogs with the slower colors had normal/good conditions, blue dog might stand a chance at getting first place. So I made another Lua script to bruteforce their condition (see folder dograceconditions). I was able to quickly find a satisfying set of conditions for the dogs.
+
+After a night of running the script, 1272 simulations later, the blue dog finished second place. This gives me great hope that first place is possible without relying on the glitch. To reproduce the win, use the save state file in the folder "bluedog-second" and run the Lua script with it using BizHawk. It takes a little while before the race starts because it waits for the correct RNG value.
+
+Video of second place: https://youtu.be/prFHTn1aIXw
