@@ -22,3 +22,6 @@ I had the idea that if the dogs with the faster colors had normal/bad conditions
 After a night of running the script, 1272 simulations later, the blue dog finished second place. This gives me great hope that first place is possible without relying on the glitch. To reproduce the win, use the save state file in the folder "bluedog-second" and run the Lua script with it using BizHawk. It takes a little while before the race starts because it waits for the correct RNG value.
 
 Video of second place: https://youtu.be/prFHTn1aIXw
+
+# Update 3
+After observing three second places using the above idea, after around 30k simulations ran on my computer and laptop over five days, a true first place happened. To reproduce the win, use the save state file in the folder "truewin" and run the Lua script with it using BizHawk-2.9.1-win-x64. It takes a little while before the race starts because it waits for the correct RNG value. GG!
