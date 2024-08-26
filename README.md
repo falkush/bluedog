@@ -25,3 +25,5 @@ Video of second place: https://youtu.be/prFHTn1aIXw
 
 # Update 3
 After observing three second places using the above idea, after around 30k simulations ran on my computer and laptop over five days, a true first place happened. To reproduce the win, use the save state file in the folder "truewin" and run the Lua script with it using BizHawk-2.9.1-win-x64. It takes a little while before the race starts because it waits for the correct RNG value. GG!
+
+True first place: https://youtu.be/H58uYF6IQ24
